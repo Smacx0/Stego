@@ -1,0 +1,3 @@
+Stego uses least significant bit steganography to store a data in the image pixel. Currently this project make use of *Pillow* library provides support for PNG, TIFF, BMP or PPM (also related family) image formats and also provides support for all color types (RGB, RGBA, CMKY, GreyScale, ...). In future versions support for image formats will also be added.
+
+Stego uses least significant bit steganography to store a data in the image pixel. Currently this project make use of *Pillow* library provides support for PNG, TIFF, BMP or PPM (also related family) image formats and also provides support for all color types (RGB, RGBA, CMKY, GreyScale, ...). In future versions support for image formats will also be added.
