@@ -8,7 +8,7 @@ Stego uses least significant bit steganography to store a data in the image pixe
 ## Installation
 You can download this project directly from github repository using command line:
 ```
-git clone https://github.com/smac01/steganography
+git clone https://github.com/smac01/Stego.git
 cd steganography
 python3 setup.py install
 ```
